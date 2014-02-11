@@ -1,9 +1,9 @@
 sleep 1
-t app fp_show 4
-sleep 1
 t app appmode photo
 sleep 1
 t app button wifi PR
+sleep 1
+t app fp_show 4
 sleep 3600
 t app button wifi P
 sleep 3
